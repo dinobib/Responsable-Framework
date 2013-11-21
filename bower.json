@@ -1,0 +1,14 @@
+{
+    "name":  "Responsable-Framework",
+    "version": "2.0.0",
+    "author": "Abban Dunne",
+    "homepage": "http://responsablecss.com/",
+    "repository": {
+		"type": "git",
+		"url": "git://github.com/Abban/Responsable-Framework.git"
+	},
+	"dependencies": {
+		"normalize-css" : "~2.1.3",
+		"typeplate" : "~1.1.1"
+	}
+}
