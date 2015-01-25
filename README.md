@@ -1,9 +1,10 @@
-Responsable Grid System v1
+Responsable Grid System v1.1
 ==========================
 
 A clean responsive grid system with a typographic baseline powered by
 [LESS][1]/[SCSS][2], based on [Semantic.gs][3].
 
+This fork tried to make some improvment to the baseline in order to make titles align on it and to resolve a problem in case of multiline titles. You should probably refer to the original [Responsable](https://github.com/Responsable/Responsable-Framework).
 
 License
 -------
